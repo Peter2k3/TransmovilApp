@@ -26,7 +26,7 @@ TransMovil App permite a los usuarios consultar rutas, horarios, alertas y el es
 - David Garcia Jeronimo
 - Pedro Adrian Silvan Valencia
 - Jorge Diaz Colorado
-- Ramon Adrian Silvan Valencia
+- Ramon Adrian Garcia Martinez
 
 ---
 
